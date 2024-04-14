@@ -26,7 +26,7 @@ The above image will be embedded in the chat log as shown below:
 
 ![Embedded in chat](assets/embedded_in_chat.png)
 
-Clicking on the image will open it in an image popup:
+Clicking on the image will open it in an image popup. \
+Clicking while holding the `Ctrl` key will open the image in a new tab.
 
 ![Image popup](assets/full_size_preview.png)
-```
