@@ -19,3 +19,14 @@ https://github.com/thyzerle/fvtt_chatimagepreview/releases/latest/download/modul
 
 The module will automatically embed images from chat messages into the chat log. When an embedded image is clicked, it will open in an image viewer.
 This will not work retroactively, only for new messages. After uninstalling the module, the images will still be embedded in the chat log but will not be clickable anymore.
+
+![URL in input](assets/url_in_input.png) 
+
+The above image will be embedded in the chat log as shown below:
+
+![Embedded in chat](assets/embedded_in_chat.png)
+
+Clicking on the image will open it in an image popup:
+
+![Image popup](assets/full_size_preview.png)
+```
