@@ -3,7 +3,6 @@
   "title": "Chat Image Preview",
   "description": "This module embeds images from chat messages directly into the chat log. When an embedded image is clicked, it will open in an image viewer.",
   "version": "#{VERSION}#",
-  "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 13,

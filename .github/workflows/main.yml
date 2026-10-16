@@ -84,7 +84,6 @@ jobs:
         id: get_version
         uses: battila7/get-version-action@v2
 
-
       # Modify "module.json" with values specific to the release.
       # Since the values for the "version" and "url" keys aren't known ahead of
       # time, the manifest file in the repository is updated with these values.
