@@ -1,0 +1,20 @@
+{
+  "CHATIMAGEPREVIEW": {
+    "Settings": {
+      "Enabled": {
+        "Name": "Embed Images in Chat",
+        "Hint": "Turn off to see image links as plain text on your client only."
+      },
+      "MaxHeight": {
+        "Name": "Maximum Embed Height (px)",
+        "Hint": "Embedded images are scaled down to fit this height in the chat log."
+      },
+      "ShowLink": {
+        "Name": "Show Source Link",
+        "Hint": "Display a small link with the image host below each embedded image."
+      }
+    },
+    "Failed": "Image failed to load",
+    "ImageTitle": "Image Preview"
+  }
+}
