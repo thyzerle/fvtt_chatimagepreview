@@ -1,0 +1,20 @@
+{
+  "CHATIMAGEPREVIEW": {
+    "Settings": {
+      "Enabled": {
+        "Name": "Incorporar Imagens no Chat",
+        "Hint": "Desative para exibir os links das imagens como texto simples apenas no seu cliente."
+      },
+      "MaxHeight": {
+        "Name": "Altura Máxima da Imagem Incorporada (px)",
+        "Hint": "As imagens incorporadas são redimensionadas para se ajustarem a essa altura no registro de chat."
+      },
+      "ShowLink": {
+        "Name": "Exibir Link de Origem",
+        "Hint": "Mostra um pequeno link com o endereço do servidor de hospedagem abaixo de cada imagem incorporada."
+      }
+    },
+    "Failed": "Falha ao carregar a imagem",
+    "ImageTitle": "Pré-visualização da Imagem"
+  }
+}
